@@ -1,10 +1,10 @@
 $(function() {
   "use strict";
 
-  //------- Parallax -------//
-  skrollr.init({
-    forceHeight: false
-  });
+  // //------- Parallax -------//
+  // skrollr.init({
+  //   forceHeight: false
+  // });
 
   //------- Active Nice Select --------//
   $('select').niceSelect();
